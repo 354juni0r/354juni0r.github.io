@@ -1,0 +1,36 @@
+.jumbotron {
+  padding-top: 5rem;
+  background-color: #e2edff;
+}
+
+#projects {
+  background-color: #e2edff;
+}
+
+footer .footer_lbox img {
+  width: 77px;
+  height: 77px;
+}
+
+.time_num {
+  font-weight: 500;
+  font-size: 80px;
+  text-align: right;
+}
+
+.time_title {
+  margin-top: 35px;
+  font-weight: 500;
+  font-size: 20px;
+  text-align: right;
+}
+
+.time_date {
+  font-weight: 300;
+  font-size: 20px;
+  text-align: right;
+}
+
+section {
+  padding-top: 5rem;
+}
